@@ -1,75 +1,58 @@
-<h1 align="center">Hi 👋, I'm Rais Hatim</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Student+@+FSBM;Building+Real+World+Projects;Always+Learning+New+Tech&center=true&width=500&height=50">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=flat" />
-</p>
+<h1 align="center">Rais Hatim</h1>
+<h3 align="center">Fullstack Developer | AI Student @ FSBM</h3>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 Profile
 🎓 Graduate in Software Development (OFPPT)  
-🎓 Currently pursuing a **Licence in Artificial Intelligence @ FSBM**  
-💻 Fullstack Developer passionate about building scalable apps  
-🚀 Strong interest in **AI, APIs, and system design**  
+🎓 Currently pursuing a **Licence in Artificial Intelligence (FSBM)**  
+
+I build fullstack applications and I'm expanding into AI to develop intelligent, scalable systems.
 
 ---
 
-## ⚡ Tech Stack
+## 💻 Fullstack Development
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
+### 🔧 Skills
+- Frontend: HTML, CSS, JavaScript, React, Bootstrap  
+- Backend: Node.js, Laravel  
+- API: REST APIs, JWT Authentication, Swagger  
+- Database: MySQL, MongoDB  
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,express" />
-</p>
-
-### 🧠 AI / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+### 🚀 Projects
+- **LearnHub** → E-learning platform (Laravel + React)  
+- **Movie API** → Secure API with external integrations  
+- **E-commerce App** → Product & order management system  
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Artificial Intelligence
+
+### 📚 Learning Focus
+- Machine Learning fundamentals  
+- Deep Learning (CNN, LSTM)  
+- Data preprocessing & model evaluation  
+
+### 🧪 Projects (in progress)
+- Classification model (Fashion / Caftan dataset)  
+- Hybrid model (CNN + LSTM)  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- 🎓 **LearnHub** → E-learning platform (Laravel + React)  
-- 🎬 **Movie API** → REST API with JWT + TMDB integration  
-- 🛍️ **E-commerce (Dupes)** → Real-world business project  
+## 🎯 Career Objective
+Build intelligent applications that combine **software engineering + AI** to solve real-world problems.
 
 ---
 
-## 🌐 Connect
-<p>
-  <a href="mailto:raishatim8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 📫 Contact
+📧 raishatim8@gmail.com  
 
 ---
-
-<p align="center">
-  ⚡ <i>"From Fullstack to AI — building the future step by step."</i>
-</p>
