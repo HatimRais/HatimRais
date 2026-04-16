@@ -1,54 +1,77 @@
-<h1 align="center">Rais Hatim</h1>
+<h1 align="center">Hi 👋, I'm Rais Hatim</h1>
 <h3 align="center">Fullstack Developer | AI Student @ FSBM</h3>
 
 ---
 
-## 🧑‍💻 Profile
+## 🧠 About Me
 🎓 Graduate in Software Development (OFPPT)  
-🎓 Currently pursuing a **Licence in Artificial Intelligence (FSBM)**  
+🎓 Currently pursuing a **Licence in Artificial Intelligence @ FSBM**  
 
-I build fullstack applications and I'm expanding into AI to develop intelligent, scalable systems.
+I’m a developer focused on building **real-world web applications**, with a growing specialization in **Artificial Intelligence**.  
+I combine **software engineering** and **AI concepts** to create scalable and practical solutions.
 
 ---
 
 ## 💻 Fullstack Development
 
-### 🔧 Skills
-- Frontend: HTML, CSS, JavaScript, React, Bootstrap  
-- Backend: Node.js, Laravel  
-- API: REST APIs, JWT Authentication, Swagger  
-- Database: MySQL, MongoDB  
+### 🔧 What I Actually Build
+- Responsive web interfaces (React, Bootstrap)  
+- REST APIs with authentication (JWT, middleware, Swagger)  
+- Full CRUD systems with business logic (Laravel / Node.js)  
+- Database design and management (MySQL, MongoDB)  
 
-### 🚀 Projects
-- **LearnHub** → E-learning platform (Laravel + React)  
-- **Movie API** → Secure API with external integrations  
-- **E-commerce App** → Product & order management system  
+### 🚀 Key Projects
+- 🎓 **LearnHub**  
+  → Full e-learning platform (Admin / Student / Instructor portals)  
+  → Laravel + React architecture  
+
+- 🎬 **Movie API**  
+  → REST API with JWT authentication  
+  → Integration with external APIs (TMDB)  
+
+- 🛍️ **E-commerce Project (Dupes)**  
+  → Product management + orders + real use case  
 
 ---
 
 ## 🧠 Artificial Intelligence
 
-### 📚 Learning Focus
+### 📚 Current Focus
 - Machine Learning fundamentals  
 - Deep Learning (CNN, LSTM)  
-- Data preprocessing & model evaluation  
+- Data preprocessing & dataset structuring  
 
-### 🧪 Projects (in progress)
-- Classification model (Fashion / Caftan dataset)  
-- Hybrid model (CNN + LSTM)  
+### 🧪 Applied Work
+- Dataset structuring (Moroccan Caftan classification project)  
+- Hybrid models (CNN + LSTM)  
+- Feature engineering & data analysis  
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,laravel,mysql,mongodb,python" />
 </p>
 
 ---
 
-## 🎯 Career Objective
-Build intelligent applications that combine **software engineering + AI** to solve real-world problems.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 What I'm Looking For
+- Internship / opportunity in **Fullstack Development or AI**  
+- Work on real-world scalable systems  
+- Grow in a professional engineering environment  
 
 ---
 
@@ -56,3 +79,7 @@ Build intelligent applications that combine **software engineering + AI** to sol
 📧 raishatim8@gmail.com  
 
 ---
+
+<p align="center">
+  ⚡ <i>Building real applications today, learning intelligent systems for tomorrow.</i>
+</p>
